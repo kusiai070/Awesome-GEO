@@ -45,3 +45,7 @@ This is a niche area, which is increasingly receiving attention from the communi
 
 - GEO Knowledge Base — Comprehensive open-source GEO reference with five-layer architecture, methodology documentation, and case studies [[GitHub]](https://github.com/shanhai-geo/geo-knowledge-base)
 - GEO Open Protocol — Open standard for brand AI visibility measurement including Brand Visibility Index (BVI) [[Website]](https://shanhai-geo.github.io/geo-protocol/)
+
+
+## Advanced GEO Tools
+- [KusiGEO](https://kusiai.es/) — AI visibility audit tool for ChatGPT, Gemini, Perplexity and AI Overviews; measures brand mentions, entity clarity and citation readiness.
